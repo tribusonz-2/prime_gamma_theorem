@@ -23,7 +23,7 @@ We have discovered about three algorithms so far, the "fourth" algorithm is a re
 
 We obtain an equation  
 
-$$ \ln(p!) = \ln((p-1)!) + \ln(p), p  \in \mathbb{P} $$  
+$$ \ln(p!) = \ln((p-1)!) + \ln(p), p  \notin \mathbb{P} $$  
 
 When $p!$ is equal to a prime number, the natural number or prime number obtained by subtracting 1 from $p$ has the term $\ln(p)$ as the difference.  
 It seems strange at first glance. Because it's a theorem.  
