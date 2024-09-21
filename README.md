@@ -26,8 +26,8 @@ We obtain an equation
 $$ \ln(p!) = \ln((p-1)!) + \ln(p), p  \notin \mathbb{P} $$  
 
 When $p!$ is equal to a prime number, the natural number or prime number obtained by subtracting 1 from $p$ has the term $\ln(p)$ as the difference.  
-It seems strange at first glance. Because it's a theorem.  
+It seems strange at first glance. Because it's a theorem. This equation does not limit $p$ to only prime numbers. They are equal even if $p$ is a natural number. So, that means 1+1=2.   
 If someones asking it "1+1 equals 2, right?", they will most likely answer, "Yes". - This isn't such a strange conversation.  
-If someones asking it "Adding ln((n-1)!) and ln(n) equals ln(n!), right?", Would the answer be "yes"?  
+If someones asking it "Adding ln((n-1)!) and ln(n) equals ln(n!), right?", would the answer be "yes"?  
 This equation has no explanation.  
 There are many ways to explain that adding 1 and 1 equals 2. So this "equation" can be explained. However, the equation for the prime gamma integral has no explanation. It appears out of nowhere.   
