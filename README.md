@@ -28,5 +28,5 @@ $$ \ln(p!) = \ln((p-1)!) + \ln(p), p  \in \mathbb{P} $$
 When $p!$ is equal to a prime number, the natural number or prime number obtained by subtracting 1 from $p$ has the term $\ln(p)$ as the difference.  
 It seems strange at first glance. Because it's a theorem.  
 If someones asking it "1+1 equals 2, right?", they will most likely answer, "Yes". - This isn't such a strange conversation.  
-If someones asking it "$\ln((p-1)!) + \ln(p)$ equals $\ln(p!)$, right?", Would the answer be "yes"?  
+If someones asking it "Adding ln((n-1)!) and ln(n) equals ln(n!), right?", Would the answer be "yes"?  
 This equation has no explanation.  
