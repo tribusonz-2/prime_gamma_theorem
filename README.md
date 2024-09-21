@@ -30,3 +30,4 @@ It seems strange at first glance. Because it's a theorem.
 If someones asking it "1+1 equals 2, right?", they will most likely answer, "Yes". - This isn't such a strange conversation.  
 If someones asking it "Adding ln((n-1)!) and ln(n) equals ln(n!), right?", Would the answer be "yes"?  
 This equation has no explanation.  
+There are many ways to explain that adding 1 and 1 equals 2. So this "equation" can be explained. However, the equation for the prime gamma integral has no explanation. It appears out of nowhere.   
