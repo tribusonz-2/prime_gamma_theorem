@@ -17,7 +17,9 @@
 However, when we decompose the logarithmic factorial function into prime factors, we find that all the factors are prime numbers.  
 It was hidden inside the logarithm.  
 I would like to name this the "prime gamma theorem".  
-We have discovered about three algorithms so far, the "fourth" algorithm is a really interesting research material because it is Euler's integral.  
+We have discovered about three algorithms so far, `Radix Complementation Method`, `Inverse Element of Anti-logarithm`, `Exponential Decomposition Formula`.   
+All of these are important in determining the cosmological constant.  
+And the "fourth" algorithm is a really interesting research material, because it is Euler's integral.  
 
 ## Terms that cannot be explained
 
