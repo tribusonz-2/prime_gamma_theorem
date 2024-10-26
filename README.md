@@ -21,6 +21,8 @@ We have discovered about three algorithms so far, `Radix Complementation Method`
 All of these are important in determining the cosmological constant.  
 And the "fourth" algorithm is a really interesting research material, because it is Euler's integral.  
 
+I thought I'd do some research with Stanford University.  
+
 ## Terms that cannot be explained
 
 We obtain an equation  
